@@ -74,4 +74,4 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 
 # Ignore Starter Content
-StarterContent/*
+Content/StarterContent/
