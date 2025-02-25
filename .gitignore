@@ -75,3 +75,6 @@ DerivedDataCache/*
 
 # Ignore Starter Content
 Content/StarterContent/
+
+# Don't Ignore Maps
+!.umap
